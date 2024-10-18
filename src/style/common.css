@@ -1,0 +1,9 @@
+.maingrid{
+    display: flex;
+    border: 1px solid #d5ecf2;
+    min-height: 30vh;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
